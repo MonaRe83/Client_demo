@@ -9,6 +9,13 @@
         <dex dex="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_e02966f2a1b0310be2c1849336f8c5d84dc96fc5\classes.dex" />
     </item>
     <item
+        jar="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_c2cc03a758c2cd7e289e618eff4b56ea2a97834a\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
         jumboMode="true"
         revision="23.0.3"
@@ -19,7 +26,7 @@
         jar="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="1fdb0cee1eef52583dc46701549571784da9e9ab">
+        sha1="4999b5b8004bc4c0b2e517eeec4b5b34221f6381">
         <dex dex="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4def1435e12cde103f55e26ec6d4a26e70857c50\classes.dex" />
     </item>
     <item
@@ -33,7 +40,7 @@
         jar="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="55a58558710b6ff97b450eab34907a2eea413949">
+        sha1="ed98e6f60a88912f57fe94b5bf395ca51e3037d4">
         <dex dex="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9a3fa5c89d996e5cf957e07adf687a5fed505fa2\classes.dex" />
     </item>
     <item
@@ -49,6 +56,13 @@
         revision="23.0.3"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
         <dex dex="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_a572fab6b647f2333aba70717d2ca6231493520d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_aa08ea8596bb5d322f6c66a3b511fb6e90863e9a\classes.dex" />
     </item>
     <item
         jar="C:\Users\mona_\Desktop\Client_demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
